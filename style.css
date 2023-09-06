@@ -23,6 +23,13 @@ img {
     height: 160px;
 }
 
+.card-body {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
 .card {
-    height: 400px;
+    width: 20rem;
 }
