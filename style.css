@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.body-container {
+    width: 90%;
+}
+
+.web-dev-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+}
+
+.web-dev-item {
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+
+img {
+    height: 160px;
+}
+
+.card {
+    height: 400px;
+}
